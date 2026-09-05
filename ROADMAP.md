@@ -24,7 +24,7 @@ My long-term goal is to become capable of understanding and building complex sof
 
 | Phase | Focus | Status | Progress |
 |---|---|---|---|
-| 0 | Setup & Developer Tools | ⬜ | 0% |
+| 0 | Setup & Developer Tools | [x] | 100% |
 | 1 | C++ Foundations | ⬜ | 0% |
 | 2 | DSA & Algorithms | ⬜ | 0% |
 | 3 | CS Fundamentals | ⬜ | 0% |
@@ -46,25 +46,25 @@ Build a comfortable development environment and learn the basic tools used by pr
 
 ### Environment
 
-- [ ] Install Linux or WSL
-- [ ] Learn terminal navigation
-- [ ] Understand files and directories
-- [ ] Install VS Code
-- [ ] Install a C++ compiler
+- [x] Install Linux or WSL
+- [x] Learn terminal navigation
+- [x] Understand files and directories
+- [x] Install VS Code
+- [x] Install a C++ compiler
 - [ ] Configure debugging tools
 - [ ] Configure Git
 
 ### Linux Basics
 
-- [ ] pwd
-- [ ] ls
-- [ ] cd
-- [ ] mkdir
-- [ ] touch
-- [ ] cp
-- [ ] mv
-- [ ] rm
-- [ ] cat
+- [x] pwd
+- [x] ls
+- [x] cd
+- [x] mkdir
+- [x] touch
+- [x] cp
+- [x] mv
+- [x] rm
+- [x] cat
 - [ ] grep
 - [ ] find
 - [ ] chmod
