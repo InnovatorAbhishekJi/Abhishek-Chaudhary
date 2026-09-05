@@ -1,229 +1,163 @@
-# 📆 Monthly Progress
+# 📚 Monthly — Engineering Journey
 
-This folder contains my monthly reviews.
+This directory contains the monthly progress of my journey toward becoming a **Systems & AI Infrastructure Engineer**.
 
-Weekly updates show what happened.
+The journey is focused on practical engineering rather than random certificate collection.
 
-Monthly reviews help me understand whether I am actually moving forward.
-
----
-
-# 🧭 Monthly Update Rules
-
-Create one file every month:
+## 🗺️ Engineering Roadmap
 
 ```text
-month-01.md
-month-02.md
-month-03.md
-```
-
-Use this format:
-
-```markdown
-# Month XX — Monthly Review
-
-**Month:** Month YYYY
-
-## 🎯 Main Goal
-
--
-
-## 📚 Topics Completed
-
-- [ ]
-- [ ]
-- [ ]
-
-## 🧠 Skills Improved
-
--
-
-## ⚔️ DSA Progress
-
-**Problems solved this month:** 0
-
-**Total problems solved:** 0 / 300
-
-### Topics Covered
-
-- Arrays:
-- Strings:
-- Linked Lists:
-- Trees:
-- Graphs:
-- Dynamic Programming:
-
-## 🛠️ Projects
-
-### Started
-
--
-
-### Completed
-
--
-
-### Current Project
-
--
-
-## 🧪 Experiments
-
--
-
-## 📖 Important Things I Learned
-
-1.
-2.
-3.
-
-## 🔥 Biggest Achievement
-
--
-
-## 🧱 Biggest Challenge
-
--
-
-## ❌ Biggest Mistake
-
--
-
-## 📉 What Did Not Work
-
--
-
-## 🔧 What I Will Change
-
--
-
-## 📊 Monthly Scorecard
-
-| Area | Score |
-|---|---|
-| Consistency | /10 |
-| Programming | /10 |
-| DSA | /10 |
-| Computer Science | /10 |
-| Projects | /10 |
-| Documentation | /10 |
-
-## 📈 Progress Since Last Month
-
--
-
-## 🎯 Next Month's Goals
-
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-
-## 🏁 Final Reflection
-
--
+Computer Fundamentals
+        ↓
+Linux
+        ↓
+Networking
+        ↓
+Python
+        ↓
+Docker
+        ↓
+Cloud
+        ↓
+Kubernetes
+        ↓
+AI Infrastructure
 ```
 
 ---
 
-# 📊 Monthly Progress Dashboard
+# 📅 Monthly Progress
 
-| Month | Main Focus | DSA Total | Projects Completed | Status |
-|---|---|---:|---:|---|
-| Month 01 | | 0 | 0 | ⬜ |
-| Month 02 | | 0 | 0 | ⬜ |
-| Month 03 | | 0 | 0 | ⬜ |
-| Month 04 | | 0 | 0 | ⬜ |
-| Month 05 | | 0 | 0 | ⬜ |
-| Month 06 | | 0 | 0 | ⬜ |
+| Month | Primary Focus | Status |
+|---|---|---|
+| [Month 1](./Month-1/README.md) | Setup & Developer Environment | 🟡 In Progress |
+| Month 2 | Linux / Systems Fundamentals | ⬜ |
+| Month 3 | Networking | ⬜ |
+| Month 4 | Python | ⬜ |
+| Month 5 | Docker & Containers | ⬜ |
+| Month 6 | Cloud Fundamentals | ⬜ |
+| Month 7 | Kubernetes | ⬜ |
 
----
-
-# 🎯 Questions I Must Answer Every Month
-
-At the end of every month, I should honestly answer:
-
-1. What can I do now that I could not do last month?
-2. What did I actually build?
-3. Did I understand what I studied?
-4. Where did I waste time?
-5. What is my biggest weakness right now?
-6. What should I stop doing?
-7. What should I focus on next month?
+> The monthly plan may evolve based on practical progress and skill depth.
 
 ---
 
-# 🚨 Monthly Reality Check
+# 🎯 Learning Method
 
-Completing checkboxes does not automatically mean mastery.
-
-At the end of every month, I should ask:
+Every learning phase follows:
 
 ```text
-Can I explain it?
-Can I build with it?
-Can I solve problems using it?
+Understand
+    ↓
+Practice
+    ↓
+Build
+    ↓
+Document
+    ↓
+Repeat
 ```
 
-If the answer is no, I need more practice.
+## 80/20 Rule
+
+**20% Theory + 80% Hands-On**
+
+Theory is learned to understand systems. Practical work is used to prove that understanding.
 
 ---
 
-# 🏆 Long-Term Metrics
+# 📂 Monthly Structure
 
-## DSA
-
-Target:
+Each month is divided into weekly folders.
 
 ```text
-300+ quality problems
+monthly/
+├── README.md
+├── Month-1/
+│   ├── README.md
+│   ├── Week-1/
+│   ├── Week-2/
+│   ├── Week-3/
+│   └── Week-4/
+├── Month-2/
+├── Month-3/
+└── ...
 ```
 
-## Projects
-
-Target:
+Each week contains daily learning logs:
 
 ```text
-10 serious projects
-```
-
-## Knowledge
-
-I should gradually improve my understanding of:
-
-- [ ] C++
-- [ ] DSA
-- [ ] Operating Systems
-- [ ] Networks
-- [ ] Databases
-- [ ] Systems Programming
-- [ ] Distributed Systems
-- [ ] Rust
-- [ ] Cloud Infrastructure
-- [ ] AI Infrastructure
-
----
-
-# 🔥 Final Principle
-
-```text
-Do not compare yourself with yesterday's internet.
-
-Compare yourself with last month's version of yourself.
-```
-
-The goal is not fast progress.
-
-The goal is:
-
-```text
-Consistent progress for a long time.
+Week-1/
+├── README.md
+├── Day-1.md
+├── Day-2.md
+├── Day-3.md
+├── Day-4.md
+├── Day-5.md
+├── Day-6.md
+└── Day-7.md
 ```
 
 ---
 
-**Owner:** Abhishek Chaudhary  
-**Journey:** Systems & AI Infrastructure Engineering  
-**Last Updated:** August 31, 2026
+# 📊 Progress Tracking
 
+Progress is measured by:
+
+- Concepts understood
+- Hands-on labs completed
+- Problems solved
+- Projects built
+- Documentation created
+- GitHub work published
+- Ability to work independently
+
+**Certificates are not the primary measure of progress.**
+
+---
+
+# 🏗️ Major Project Rule
+
+Every major learning phase should produce practical proof of learning.
+
+Projects should include:
+
+- Working implementation
+- README
+- Architecture or workflow explanation where relevant
+- Setup instructions
+- Learning notes
+- Git history
+- Practical demonstration
+
+---
+
+# 🚀 Long-Term Goal
+
+Build strong fundamentals and practical experience in:
+
+- Computer systems
+- Linux
+- Networking
+- Programming
+- Containers
+- Cloud infrastructure
+- Kubernetes
+- Distributed systems
+- AI infrastructure
+- Model serving
+- Scaling AI workloads
+
+The ultimate goal is to become capable of **understanding, building, deploying and operating real systems**.
+
+---
+
+## Current Status
+
+**Current Month:** Month 1
+
+**Current Phase:** Phase 0 — Setup & Developer Environment
+
+**Current Skill:** Linux Basics
+
+**Overall Status:** 🟡 In Progress
