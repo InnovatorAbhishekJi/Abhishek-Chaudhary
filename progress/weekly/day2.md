@@ -1,72 +1,91 @@
-Day 2 — Linux Files & Directories
+# Day 2 — Linux Files & Directories
 
-Goal
+## Goal
 
 Learn how to create, read, copy, move, rename, and delete files and directories using the Linux terminal.
 
-Environment
+## Environment
 
 - Windows 10
 - WSL 2
 - Ubuntu
 - Linux User: abhishek
 
-Commands Practiced
+## Commands Practiced
 
-mkdir
+### mkdir
 
 Creates a new directory.
 
+```bash
 mkdir directory-name
+```
 
-touch
+### touch
 
 Creates an empty file.
 
+```bash
 touch file.txt
+```
 
-cat
+### cat
 
 Displays the contents of a file.
 
+```bash
 cat file.txt
+```
 
-cp
+### cp
 
 Copies files or directories.
 
+```bash
 cp source.txt destination/
+```
 
-mv
+### mv
 
 Moves or renames files and directories.
 
+```bash
 mv old-name.txt new-name.txt
+```
 
-rm
+### rm
 
 Removes files.
 
+```bash
 rm file.txt
+```
 
-Redirection
+## Redirection
 
-Practiced writing command output into a file using ">".
+Practiced writing command output into a file using `>`.
 
+```bash
 echo "Linux is the foundation of my engineering journey." > notes.txt
+```
 
 The content was then verified using:
 
+```bash
 cat notes.txt
+```
 
-Practical Lab
+## Practical Lab
 
 Created and manipulated files and directories inside:
 
+```text
 /home/abhishek/engineering-lab
+```
 
 Created a project structure:
 
+```text
 engineering-lab/
 └── project/
     ├── README.md
@@ -76,35 +95,40 @@ engineering-lab/
     │   └── notes.txt
     └── backup/
         └── main-backup.cpp
+```
 
-Key Learning
+## Key Learning
 
 Linux treats files and directories as fundamental building blocks of the filesystem.
 
 The important mental model from this lab:
 
+```text
 mkdir → create directory
 touch → create file
 cat   → read file
 cp    → copy
 mv    → move / rename
 rm    → delete
+```
 
-I also learned that "mv" is used for both moving and renaming files.
+I also learned that `mv` is used for both moving and renaming files.
 
-Engineering Lesson
+## Engineering Lesson
 
 Instead of memorizing commands individually, understand what operation is happening:
 
+```text
 Create → Read → Copy → Move → Rename → Delete
+```
 
 This makes terminal usage easier to understand and apply in real systems.
 
-Status
+## Status
 
 Day 2 completed successfully.
 
-Next Step
+## Next Step
 
 Move beyond basic filesystem operations and learn Linux tools for:
 
