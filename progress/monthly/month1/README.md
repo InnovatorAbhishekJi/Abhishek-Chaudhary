@@ -1,161 +1,139 @@
-# 📅 Weekly Progress
+# Month 1 — Setup & Developer Environment
 
-This folder contains my weekly progress updates.
+## Phase
 
-The purpose is not to show perfection.
+**Phase 0 — Setup & Developer Environment**
 
-The purpose is to create a public record of:
+## Goal
 
-- What I learned
-- What I built
-- What I struggled with
-- What mistakes I made
-- How I improved
+Build a comfortable development environment and learn the basic tools used by professional developers.
 
----
-
-# 🧭 Weekly Update Rules
-
-Create one file every week:
+## Month 1 Focus
 
 ```text
-week-01.md
-week-02.md
-week-03.md
+Developer Environment
+        ↓
+Linux Basics
+        ↓
+C++ Development Environment
+        ↓
+Debugging
+        ↓
+Git & GitHub
+        ↓
+Practical Project
 ```
 
-Use this format:
+## Weekly Plan
 
-```markdown
-# Week XX — Progress Update
-
-**Date:** DD Month YYYY — DD Month YYYY
-
-## 🎯 Main Focus
-
--
-
-## 📚 What I Learned
-
-- [ ]
-- [ ]
-- [ ]
-
-## 💻 What I Practiced
-
--
-
-## ⚔️ DSA Progress
-
-**Problems solved this week:** 0
-
-| Problem | Topic | Difficulty | Status |
-|---|---|---|---|
-| | | | ⬜ |
-
-**Total problems solved:** 0 / 300
-
-## 🛠️ What I Built
-
--
-
-## 🧪 Experiments
-
--
-
-## 🧠 Biggest Challenge
-
--
-
-## 🔍 What I Learned From It
-
--
-
-## ❌ Mistakes I Made
-
--
-
-## 🔧 How I Will Improve
-
--
-
-## 📈 This Week's Wins
-
--
-
-## 🎯 Next Week's Mission
-
-- [ ]
-- [ ]
-- [ ]
-
-## 📊 Weekly Score
-
-| Area | Score |
-|---|---|
-| Consistency | /10 |
-| Learning | /10 |
-| DSA | /10 |
-| Building | /10 |
-| Documentation | /10 |
-
-## 🔥 Final Reflection
-
--
-```
+| Week | Focus | Status |
+|---|---|---|
+| Week 1 | Linux Environment & Linux Basics | 🟡 In Progress |
+| Week 2 | Linux Basics & Practical Labs | ⬜ |
+| Week 3 | VS Code, C++ Compiler & Debugging | ⬜ |
+| Week 4 | Git, GitHub & Project Integration | ⬜ |
 
 ---
 
-# 📊 Weekly Progress Index
+# Week 1 — Linux Environment & Basics
 
-| Week | Dates | Main Focus | Status |
-|---|---|---|---|
-| Week 01 | | | ⬜ |
-| Week 02 | | | ⬜ |
-| Week 03 | | | ⬜ |
-| Week 04 | | | ⬜ |
+### Goal
 
----
+Set up Ubuntu on WSL2 and become comfortable with Linux navigation and filesystem operations.
 
-# 🎯 Weekly Minimum Standard
+### Completed
 
-Every week, I should try to have at least:
+- WSL2 verified
+- Ubuntu installed
+- Linux terminal opened
+- Linux home directory explored
+- `pwd`
+- `ls`
+- `ls -la`
+- `cd`
+- `mkdir`
+- `touch`
+- `cp`
+- `mv`
+- `rm`
+- `cat`
+- Basic redirection with `>`
 
-- [ ] Learning progress
-- [ ] Practical coding
-- [ ] DSA practice
-- [ ] Notes or documentation
-- [ ] A clear plan for next week
+### Status
 
-Not every week needs to be perfect.
+**2 / 7 days completed**
 
-The goal is:
-
-```text
-Keep moving forward.
-```
-
----
-
-# 🔥 Important Rule
-
-> Do not hide bad weeks.
-
-A difficult week is also part of the journey.
-
-Document:
-
-- Lack of consistency
-- Concepts I could not understand
-- Failed projects
-- Bugs I could not solve
-- Plans that did not work
-
-Progress is not always linear.
+See the detailed logs inside `Week-1/`.
 
 ---
 
-**Owner:** Abhishek Chaudhary  
-**Journey:** Systems & AI Infrastructure Engineering  
-**Last Updated:** August 31, 2026
+# Week 2 — Linux Practice
 
+Focus will move beyond basic file operations into:
+
+- Search
+- Text processing
+- Permissions
+- Pipes
+- Redirection
+- Practical Linux labs
+
+**Status:** ⬜
+
+---
+
+# Week 3 — Developer Tools
+
+Focus:
+
+- VS Code
+- C++ compiler
+- C++ development environment
+- Debugging tools
+- Practical compilation and debugging
+
+**Status:** ⬜
+
+---
+
+# Week 4 — Git & GitHub
+
+Focus:
+
+- `git init`
+- `git status`
+- `git add`
+- `git commit`
+- `git log`
+- `git push`
+- `git pull`
+- Branches
+- Merge
+- Pull requests
+- Project integration
+
+**Status:** ⬜
+
+---
+
+# 🎯 Month 1 Milestone
+
+Create and publish a practical C++ project on GitHub without following a step-by-step tutorial.
+
+## Success Criteria
+
+- [ ] Development environment configured
+- [ ] Linux basics demonstrated
+- [ ] C++ compiler working
+- [ ] Debugging workflow understood
+- [ ] Git workflow understood
+- [ ] GitHub repository managed independently
+- [ ] C++ project published independently
+
+## Engineering Principle
+
+**Do not measure progress by certificates.**
+
+Measure progress by what I can:
+
+**Understand → Practice → Build → Explain → Document**
