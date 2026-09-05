@@ -183,10 +183,10 @@ The next focus will be Linux tools for:
 
 ## 🔗 Daily Logs
 
-- [Day 1 — WSL & Linux Navigation](./Day-1.md)
-- [Day 2 — Linux Files & Directories](./Day-2.md)
-- [Day 3](./Day-3.md)
-- [Day 4](./Day-4.md)
-- [Day 5](./Day-5.md)
-- [Day 6](./Day-6.md)
-- [Day 7](./Day-7.md)
+- [Day 1 — WSL & Linux Navigation](./day1.md)
+- [Day 2 — Linux Files & Directories](./day2.md)
+- [Day 3](./day3.md)
+- [Day 4](./day4.md)
+- [Day 5](./day5.md)
+- [Day 6](./day6.md)
+- [Day 7](./day7.md)
