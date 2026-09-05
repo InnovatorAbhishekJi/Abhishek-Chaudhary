@@ -30,7 +30,7 @@ AI Infrastructure
 
 | Month | Primary Focus | Status |
 |---|---|---|
-| [Month 1](./Month-1/README.md) | Setup & Developer Environment | 🟡 In Progress |
+| [Month 1](./month1/README.md) | Setup & Developer Environment | 🟡 In Progress |
 | Month 2 | Linux / Systems Fundamentals | ⬜ |
 | Month 3 | Networking | ⬜ |
 | Month 4 | Python | ⬜ |
