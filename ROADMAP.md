@@ -24,7 +24,7 @@ My long-term goal is to become capable of understanding and building complex sof
 
 | Phase | Focus | Status | Progress |
 |---|---|---|---|
-| 0 | Setup & Developer Tools | [x] | 100% |
+| 0 | Setup & Developer Tools | ✅ | 100% |
 | 1 | C++ Foundations | ⬜ | 0% |
 | 2 | DSA & Algorithms | ⬜ | 0% |
 | 3 | CS Fundamentals | ⬜ | 0% |
